@@ -1,4 +1,4 @@
-baseURL = 'https://chen-chen-wakaranai.org/'
+baseURL = 'https://chen-chen-wakaranai.github.io/'
 locale = 'zh-tw'
 title = 'Chen | Personal Website'
 theme = 'ananke'
