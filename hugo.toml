@@ -1,0 +1,4 @@
+baseURL = 'https://chen-chen-wakaranai.org/'
+locale = 'zh-tw'
+title = 'Chen | Personal Website'
+theme = 'ananke'
